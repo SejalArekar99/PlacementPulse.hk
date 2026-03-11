@@ -1,0 +1,11 @@
+flask
+flask-cors
+scikit-learn
+spacy
+PyPDF2
+pdfplumber
+numpy
+pandas
+werkzeug
+gunicorn
+python-docx
